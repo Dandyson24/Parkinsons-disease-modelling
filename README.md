@@ -64,9 +64,9 @@ Figure 2: Confusion Matrix
 
 Figure 3: Feature Distribution / Scaling Visualization
 
-[Insert feature plot here]
+![Importance'](https://github.com/Dandyson24/Parkinsons-disease-modelling/blob/main/figure.png?raw=true)
 
-⚠️ Limitations & Room for Improvement
+## Limitations & Room for Improvement
 
 Dataset size is relatively small, limiting external generalizability
 
@@ -76,7 +76,7 @@ SVM model interpretability is limited compared to tree-based models
 
 Class imbalance may still subtly affect prediction thresholds
 
-🚀 Next Steps
+## Next Steps
 
 Compare performance with ensemble models (Random Forest, XGBoost)
 
@@ -88,7 +88,7 @@ Validate the model on external or real-world clinical datasets
 
 Explore deployment for telemedicine and remote monitoring use cases
 
-🏥 Clinical Relevance
+### Clinical Relevance
 
 This model is not a replacement for clinical diagnosis, but a decision support and screening tool that can:
 
