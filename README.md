@@ -1,57 +1,57 @@
 # Parkinson’s Disease Detection Using Support Vector Machine (SVM)
-📖 Project Overview
+## Project Overview
 
 Parkinson’s disease is a progressive neurological disorder that often presents with subtle speech abnormalities in its early stages. This project applies machine learning (Support Vector Machine) to biomedical voice measurements in order to classify individuals as Parkinson’s disease positive or healthy controls.
 
 The goal is to demonstrate how non-invasive voice features, combined with robust evaluation metrics, can support early screening and clinical decision-making, especially in low-resource or telemedicine settings.
 
-🎯 Objectives
+## Objectives
 
-Build a reliable classification model to detect Parkinson’s disease using voice features
+- Build a reliable classification model to detect Parkinson’s disease using voice features
 
-Evaluate performance using clinically meaningful metrics beyond accuracy
+- Evaluate performance using clinically meaningful metrics beyond accuracy
 
-Assess generalizability using cross-validated ROC–AUC
+- Assess generalizability using cross-validated ROC–AUC
 
-Demonstrate the potential of ML as a clinical decision support tool
+- Demonstrate the potential of ML as a clinical decision support tool
 
-📊 Dataset
+## Dataset
 
-Biomedical voice measurements extracted from sustained phonations
+- Biomedical voice measurements extracted from sustained phonations
 
-Features include jitter, shimmer, noise ratios, pitch measures, and nonlinear speech dynamics
+- Features include jitter, shimmer, noise ratios, pitch measures, and nonlinear speech dynamics
 
-Target variable: Parkinson’s disease status (Yes / No)
+**Target variable:** Parkinson’s disease status (Yes / No)
 
-⚙️ Methodology
+## Methodology
 
-Data preprocessing and feature scaling
+- Data preprocessing and feature scaling
 
-Train–test split
+- Train–test split
 
-Support Vector Machine (SVM) modeling
+- Support Vector Machine (SVM) modeling
 
-Model evaluation using:
+**Model evaluation using:**
 
-Classification report
+- Classification report
 
-ROC–AUC
+- ROC–AUC
 
-Cross-validated ROC–AUC
+- Cross-validated ROC–AUC
 
-📈 Key Performance Metrics
+## Key Performance Metrics
 
-Test Accuracy: ~87%
+- Test Accuracy: ~87%
 
-ROC–AUC: ~0.82
+- ROC–AUC: ~0.82
 
-Cross-Validated ROC–AUC: ~0.90
+- Cross-Validated ROC–AUC: ~0.90
 
-Precision & Recall: Well balanced, indicating reliable detection with limited false positives and false negatives
+- Precision & Recall: Well balanced, indicating reliable detection with limited false positives and false negatives
 
-These results suggest strong discriminatory ability and good generalization performance.
+- These results suggest strong discriminatory ability and good generalization performance.
 
-📉 Model Evaluation Visuals
+## Model Evaluation Visuals
 
 
 Figure 1: ROC–AUC Curve
@@ -102,9 +102,9 @@ Enable remote and population-level screening
 
 Jupyter notebook: (https://github.com/Dandyson24/Parkinsons-disease-modelling/blob/main/Parkinson%20detection%20using%20support%20vector%20modelling.ipynb)
 
-LinkedIn Profile: [INSERT LINKEDIN LINK HERE]
+LinkedIn Profile: (https://www.linkedin.com/in/andrew-nwachimereze-okebugwu-mbbs-mph-phd-6b429617/)
 
 ✍️ Author
 
-Andy Okebugwu, PhD
+Andrew Nwachimere-eze Okebugwu, MBBS, PhD
 Public Health | Data Analytics | Machine Learning in Healthcare
