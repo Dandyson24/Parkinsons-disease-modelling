@@ -53,11 +53,10 @@ These results suggest strong discriminatory ability and good generalization perf
 
 📉 Model Evaluation Visuals
 
-(Placeholders — insert figures here)
 
 Figure 1: ROC–AUC Curve
 
-[Insert ROC curve image here]
+![ROC_Curve']([Insert ROC curve image here]
 
 Figure 2: Confusion Matrix
 
