@@ -100,7 +100,7 @@ Enable remote and population-level screening
 
 🔗 Project Links
 
-GitHub Repository: [INSERT GITHUB LINK HERE]
+Jupyter notebook: (https://github.com/Dandyson24/Parkinsons-disease-modelling/blob/main/Parkinson%20detection%20using%20support%20vector%20modelling.ipynb)
 
 LinkedIn Profile: [INSERT LINKEDIN LINK HERE]
 
