@@ -56,7 +56,7 @@ These results suggest strong discriminatory ability and good generalization perf
 
 Figure 1: ROC–AUC Curve
 
-![ROC_Curve']([Insert ROC curve image here]
+![ROC_Curve'](https://github.com/Dandyson24/Parkinsons-disease-modelling/blob/main/ROC_CURVE.png?raw=true)
 
 Figure 2: Confusion Matrix
 
